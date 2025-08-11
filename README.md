@@ -1,4 +1,4 @@
-## 💜 Hello World, me chamo Brena Alves!
+## 💜 Hello World, me chamo Brena Oliveira!
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
