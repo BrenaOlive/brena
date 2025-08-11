@@ -8,8 +8,8 @@
   Procuro oportunidades como estagiária em Front-end ou desenvolvedora Júnior. Fique a vontade para conhecer meus trabalhos! ⭐ 
 </p>
 
-<p align="left">
 ## Ferramentas e Tecnologias
+<p align="left">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="30" height="30"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="30" height="30"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="30" height="30"/>
