@@ -9,7 +9,7 @@
 </p> 
 
 <p align="left"> 
-  Atualmente sou estudante de Sistemas da Computação pela Universidade Federal Fluminense, atualmente sou estagiária como <strong>Front-end</strong>.
+  Estudante de Sistemas da Computação pela Universidade Federal Fluminense e atualmente estagiária como desenvolvedora<strong>Front-end</strong>.
   Procuro oportunidades como estagiária em Front-end ou desenvolvedora Júnior. <br> Fique a vontade para conhecer meus trabalhos! ⭐ 
 </p>
 
