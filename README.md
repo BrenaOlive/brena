@@ -1,5 +1,4 @@
 ## Hello World, me chamo Brena Alves!
-## Bem vindo ao meu perfil GitHub 👋
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -19,7 +18,7 @@
 </p>
 
 <p align="left">
-  💌 Para entrar em contato comigo: ⤵️
+  ## 💌 Para entrar em contato comigo: ⤵️
 </p>
 
 <p align="left">
